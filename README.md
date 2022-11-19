@@ -2,5 +2,7 @@
 
 Testing new repo from local on my own
 
-Step1:
-Add repo manually in Githib GUI
+##Step1: 
+
+Add repo manually in Github GUI
+Follow on page command lines from Github
