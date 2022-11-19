@@ -8,3 +8,5 @@ Add repo manually in Github GUI
 Follow on page command lines from Github
 
 Test
+
+So commit comes first, then push
